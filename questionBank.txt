@@ -1,0 +1,96 @@
+LIST 1 
+LINKED LIST
+1. Rearrange a given linked list in-place ( L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2 …)
+2. Flattening a Linked List
+3. Clone a linked list with next and random pointer
+4. searching in a linkedlist that is sorted but expended in down as well/Kth smallest element in a row-wise and column-wise sorted 2D array
+5. Merge two sorted linked lists
+6. Sort a linked list that is sorted alternating ascending and descending order
+7. Function to check if a singly linked list is palindrome
+8. Delete N nodes after M nodes of a linked list
+9. Add two numbers represented by linked lists
+10. Find the middle/ cycle / merge of a given linked list
+
+TRESS
+1. Two nodes of a BST are swapped, correct the BST
+2. Inorder Successor in Binary Search Tree
+3. Find distance between two given keys of a Binary Tree
+4. Diagonal Traversal of Binary Tree
+5. reverse level order/ Zig zag traversal in binary tree
+6. vertical Sum of a tree.
+7. Print Left/Right/ top/ bottom View of a Binary Tree
+8. Lowest Common Ancestor in a Binary Search Tree / Binary Tree
+9. Difference between sums of odd level and even level nodes of a Binary Tree
+10. Diameter of a Binary Tree
+11. Write a Program to Find the Maximum Depth or Height of a Tree
+12. tree traversal
+13. Given a binary tree, print all root-to-leaf paths
+14. Check if two trees are Mirror / identical
+15. Check if a given Binary Tree is SumTree
+
+GRAPH
+1. Deduct a cycle in graph (unidirected/ Directed)
+2. BFS/DFS number of island problem
+
+ARRAY/STRING
+1. Partition a set into two subsets such that the difference of subset sums is minimum
+2. Median of infinite stream
+3. Minimum steps to reach a destination
+4. Minimum Number of Platforms Required for a Railway/Bus Station
+5. Inplace rotate square matrix by 90 degrees
+6. Find the first non-repeating character from a stream of characters
+7. Find next greater number with same set of digits / Mininum number from given digits
+8. rat in maze , sudoku
+9. Print all possible strings that can be made by placing spaces
+10. Print all possible strings that can be made by placing spaces
+11. Find the smallest window in a string containing all characters of another string
+12. Write a program to print all permutations of a given string
+13. Maximum sum such that no two elements are adjacent
+12. k largest(or smallest) elements in an array
+13. Count all possible paths from top left to bottom right of a mXn matrix
+14. Count triplets with sum smaller than a given value
+15. Check if a string can be obtained by rotating another string
+16. Find the nearest smaller numbers on left side in an array
+17. Pairs with given product / sum.
+18. Search in shorted but rotated array
+
+DP
+1. longest increasing subsequese (Dynamic Programing)
+2. longest palindromic substring (Dynamic Programing)
+3. longest common subsequence (Dynamic Programing)
+
+OTHER DS
+1. implement queue with stacks and stack with queue
+2. Implement LRU Cache
+3. Design a stack that supports getMin() in O(1) time and O(1) extra space
+
+
+DESIGN
+1. Design Elevator system (object oriented design)
+2. Design parking lot (object oriented design)
+
+
+LIST 2
+1. Check if a string can be obtained by rotating another string 2 places
+2. Remove the minimum number of characters so that two strings become anagram
+3. Write a program to print all permutations of a given string
+4. Find all strings that match specific pattern in a dictionary
+5. Find an equal point in a string of brackets
+6. Given a string, find its first non-repeating character
+7. Given a binary string, count the number of substrings that start and end with 1.
+8. Length of the longest substring without repeating characters
+9. Rearrange characters in a string such that no two adjacent are same
+10. Reverse words in a given string
+11. Validity of a given Tic-Tac-Toe board configuration
+12. Sort an array in wave form
+13. Find a Fixed Point (Value equal to index) in a given array
+14. Given an array arr[] of n integers, construct a Product Array prod[] (of same size) such that prod[i] is equal to the product of all the elements of arr[] except arr[i],without division operator in O(n) time.
+15. Spiral traversal of matrix
+16. Nth fibonacci number 
+17. Find the smallest positive number missing from an unsorted array 
+18. Merge two sorted array A size of n , B size of n+m, having m elements without using extra space.
+19. Move all zeros to end of array
+20. Sort an array of 0s, 1s and 2s
+21. Largest Sum Contiguous Subarray(-ve number also)
+22. Sort an array according to the order defined by another array
+23. Point in a region 
